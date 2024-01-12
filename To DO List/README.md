@@ -13,7 +13,6 @@
 git init
 Add Remote Repository:
 Add the remote repository URL of your GitHub repository. Replace <repository-url> with the actual URL of your GitHub repository.
-https://github.com/AliGates915/TO-Do-List/tree/master
 git remote add origin <repository-url>
 Stage Changes:
 Stage the changes you want to commit. You can do this using the following command:
